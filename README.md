@@ -51,14 +51,4 @@ Engineered features significantly improved the predictive ability of the models.
 
 The final model was found to predict the progression score fairly well, achieving strong R² performance and relatively low error metrics after feature engineering.
 
-# 🔮 Future Improvements
 
-Apply SHAP or LIME for deeper model interpretability,
-
-Use cross-validation for more robust model evaluation,
-
-Try advanced models like XGBoost,
-
-Deploy the model as a simple web application using Streamlit or Flask,
-
-Add hyperparameter tuning for tree-based models.
