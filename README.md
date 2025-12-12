@@ -7,11 +7,11 @@ The dataset contains 10 baseline variables such as age, BMI, blood pressure, and
 
 This project aims to:
 
-Determine factors that significantly affect diabetes progression,
+1. Determine factors that significantly affect diabetes progression,
 
-Interpret how these factors influence disease severity,
+2. Interpret how these factors influence disease severity,
 
-Use these factors to predict diabetes progression scores.
+3. Use these factors to predict diabetes progression scores.
 
 # ⚙️ Methodology
 Skills & Concepts Used:
@@ -19,6 +19,7 @@ Skills & Concepts Used:
 Python | Statistics | Regression Models | Feature Engineering
 
 I used Python to analyze this dataset, and Jupyter Notebook as my environment.
+
 The libraries used were:
 pandas, numpy, matplotlib, seaborn, statistics, scipy, and various models from sklearn.
 
